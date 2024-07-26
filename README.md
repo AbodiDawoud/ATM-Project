@@ -38,10 +38,10 @@ To get started with the ATM Project, follow these steps:
 4. Follow the on-screen instructions to create an account and start managing your funds.
 
 ## Screenshots
-![ATM Project](Images/ATM_1.png)
-![ATM Project](Images/ATM_2.png)
-![ATM Project](Images/ATM_3.png)
-![ATM Project](Images/ATM_4.png)
+![ATM Project](images/ATM_1.png)
+![ATM Project](images/ATM_2.png)
+![ATM Project](images/ATM_3.png)
+![ATM Project](images/ATM_4.png)
 
 
 ## Future Improvements
