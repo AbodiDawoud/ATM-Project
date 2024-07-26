@@ -1,0 +1,22 @@
+C:\Users\Admin\Documents\ATM Project\ATM Project\bin\Debug\ATM Project.exe.config
+C:\Users\Admin\Documents\ATM Project\ATM Project\bin\Debug\ATM Project.exe
+C:\Users\Admin\Documents\ATM Project\ATM Project\bin\Debug\ATM Project.pdb
+C:\Users\Admin\Documents\ATM Project\ATM Project\obj\Debug\ATM Project.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\ATM Project\ATM Project\obj\Debug\ATM Project.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\ATM Project\ATM Project\obj\Debug\ATM Project.exe
+C:\Users\Admin\Documents\ATM Project\ATM Project\obj\Debug\ATM Project.pdb
+C:\Users\Admin\Documents\ATM Project\ATM Project\bin\Debug\ATM Project.exe.manifest
+C:\Users\Admin\Documents\ATM Project\ATM Project\bin\Debug\ATM Project.application
+C:\Users\Admin\Documents\ATM Project\ATM Project\obj\Debug\ATM Project.exe.manifest
+C:\Users\Admin\Documents\ATM Project\ATM Project\obj\Debug\ATM Project.application
+C:\Users\Admin\Documents\CSharp Projects\ATM Project\ATM Project\bin\Debug\ATM Project.exe.config
+C:\Users\Admin\Documents\CSharp Projects\ATM Project\ATM Project\bin\Debug\ATM Project.exe.manifest
+C:\Users\Admin\Documents\CSharp Projects\ATM Project\ATM Project\bin\Debug\ATM Project.application
+C:\Users\Admin\Documents\CSharp Projects\ATM Project\ATM Project\bin\Debug\ATM Project.exe
+C:\Users\Admin\Documents\CSharp Projects\ATM Project\ATM Project\bin\Debug\ATM Project.pdb
+C:\Users\Admin\Documents\CSharp Projects\ATM Project\ATM Project\obj\Debug\ATM Project.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\CSharp Projects\ATM Project\ATM Project\obj\Debug\ATM Project.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\CSharp Projects\ATM Project\ATM Project\obj\Debug\ATM Project.exe.manifest
+C:\Users\Admin\Documents\CSharp Projects\ATM Project\ATM Project\obj\Debug\ATM Project.application
+C:\Users\Admin\Documents\CSharp Projects\ATM Project\ATM Project\obj\Debug\ATM Project.exe
+C:\Users\Admin\Documents\CSharp Projects\ATM Project\ATM Project\obj\Debug\ATM Project.pdb
